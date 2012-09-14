@@ -1,0 +1,15 @@
+.deps
+autom4te.cache
+Makefile
+Makefile.in
+autoscan.log
+config.h
+config.h.in
+config.log
+config.status
+configure
+depcomp
+install-sh
+mathtex.cgi
+missing
+stamp-h1
